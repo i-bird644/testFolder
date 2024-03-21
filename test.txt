@@ -1,3 +1,1 @@
-This is a change to my file
-Second Change
-Third Change
+Git Intro Lesson Part 2
